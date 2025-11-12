@@ -1,9 +1,5 @@
 # Olá, eu sou o Rodolfo Faria! 👋
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3A5eGhsaDVocjRucnd2ZGIxYTI2b2N0d2g4Nm41ZHIyYnQ1bHYzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACmCg2Y/giphy.gif" width="200" alt="GIF de código"/>
-</p>
-
 Sou um desenvolvedor de software e graduando em **Ciência da Computação** pela **UNIFEI - Universidade Federal de Itajubá**.
 
 Minha paixão é a **resolução de problemas complexos**, seja através do **desenvolvimento backend** com o ecossistema Java/Spring ou pela implementação de **fundamentos da Ciência da Computação**, como algoritmos e estruturas de dados de alta performance.
@@ -59,5 +55,5 @@ Aqui estão os projetos que melhor demonstram minhas habilidades e áreas de int
 
 Vamos nos conectar! Estou sempre aberto a novas oportunidades e colaborações.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO-DO-LINKEDIN-AQUI/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL-AQUI@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodolfofaaria/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodolfohenrique116@gmail.com)
