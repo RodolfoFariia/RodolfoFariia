@@ -1,59 +1,20 @@
-# Olá, eu sou o Rodolfo Faria! 👋
+## Olá, eu sou o Rodolfo 👋
 
-Sou um desenvolvedor de software e graduando em **Ciência da Computação** pela **UNIFEI - Universidade Federal de Itajubá**.
+Graduando em Ciência da Computação na **UNIFEI** e bolsista **FAPEMIG** de iniciação científica em **deep learning**.
+Construo com IA, da pesquisa ao código que roda.
 
-Minha paixão é a **resolução de problemas complexos**, seja através do **desenvolvimento backend** com o ecossistema Java/Spring ou pela implementação de **fundamentos da Ciência da Computação**, como algoritmos e estruturas de dados de alta performance.
+### 🔬 Em destaque
 
-Estou aproveitando a graduação para experimentar e adquirir o máximo de conhecimento em diferentes áreas, sempre buscando conectar a teoria da universidade com a prática do mercado.
+- **[Mapeamento de café com Redes Neurais em Grafos](https://github.com/RodolfoFariia/gcn-mapeamento-cafe)**: GCN em PyTorch Geometric que superou Random Forest, XGBoost e LightGBM no mapeamento de café com Sentinel-2 (IoU 0,598 contra 0,553–0,555), num município fora do treino. Artigo submetido ao SBSR 2027, em coautoria com EPAMIG e Embrapa Café.
+- **[Rest-Manager](https://github.com/RodolfoFariia/rest-manager)**: API REST em Spring Boot para gestão de restaurante, com pedidos e baixa de estoque atômicos.
+- **[FOMMO](https://github.com/RodolfoFariia/fommo-project)**: plataforma de avaliação de músicas em Spring Boot e Angular, integrada à API do Spotify via OAuth2.
 
----
+### 🧰 Stack
 
-## 💻 Tecnologias e Ferramentas
+**IA e dados:** Python · PyTorch · PyTorch Geometric · scikit-learn · XGBoost · LightGBM · Optuna · Google Earth Engine · Kaggle/Colab
+**Backend:** Java · Spring Boot · Spring Security · PostgreSQL · Docker
+**Fundamentos:** C · algoritmos e estruturas de dados
 
-Estas são algumas das tecnologias e ferramentas com as quais tenho mais experiência:
+### 📫 Contato
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=00599C" alt="C" />
-  
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
-</p>
-
----
-
-## 🚀 Meus Principais Projetos
-
-Aqui estão os projetos que melhor demonstram minhas habilidades e áreas de interesse.
-
-### 1. [Rest-Manager API (Backend de Restaurante)](https://github.com/RodolfoFariia/rest-manager)
-* **O que é?** Uma API RESTful completa em **Spring Boot** para gerenciar um sistema de restaurante.
-* **Por que é legal?** Foge do "CRUD simples" ao implementar uma lógica **transacional (`@Transactional`)** complexa para `Pedidos`, que gerencia o `Estoque` de `Produtos` de forma atômica. A API é "blindada" usando **DTOs** (Data Transfer Objects) para segurança (evitando over-posting) e para proteger dados sensíveis (`Funcionario.salario`) nas respostas.
-* *(Tecnologias: Java 21, Spring Boot, Spring Data JPA, PostgreSQL, Maven)*
-
-### 2. [Estruturas de Dados em C](https://github.com/RodolfoFariia/data-structures-c)
-* **O que é?** Uma biblioteca de estruturas de dados clássicas, implementadas do zero em **C**.
-* **Por que é legal?** Prova o domínio dos fundamentos de C&T, incluindo gerenciamento manual de memória (`malloc`/`free`) e ponteiros. Inclui implementações de **Pilha**, **Fila**, **Lista Duplamente Encadeada**, **Heap (Max-Heap)**, **Árvore AVL** e **Árvore Rubro-Negra**.
-* *(Tecnologias: C, Make)*
-
-### 3. [Isomorfia: Árvore 2-3-4 ➔ Rubro-Negra](https://github.com/RodolfoFariia/isomorfia-arvores-234-rb)
-* **O que é?** Um projeto acadêmico que implementa uma **Árvore 2-3-4** e uma **Árvore Rubro-Negra (RBT)**, provando a equivalência estrutural (isomorfia) entre elas através de uma **função de conversão** direta.
-* **Por que é legal?** Demonstra um entendimento teórico profundo de como funcionam os algoritmos de auto-balanceamento (splits/merges vs. rotações/recoloração).
-* *(Tecnologias: C, CMake)*
-
----
-
-## 📫 Entre em Contato
-
-Vamos nos conectar! Estou sempre aberto a novas oportunidades e colaborações.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodolfofaaria/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodolfohenrique116@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/rodolfofaaria/) · rodolfohenrique116@gmail.com
